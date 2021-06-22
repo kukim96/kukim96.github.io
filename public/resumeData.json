@@ -1,0 +1,109 @@
+{
+  "main": {
+    "name": "Kiup Kim",
+    "occupation": "Full Stack Web Developer",
+    "description": "I'm a recent graduate of Lighthouse Labs, where I dove into the fields of Computer Science, Web Development, and Programming.",
+    "image": "profilepic.jpg",
+    "bio": "I am coming from 3.5 years of experience in retail banking focused on customer service. I have always been interested in technology and wanted to explore what I can do with technology. I decided to leave my position at the bank and pursue full-time studies to learn software development and would love to start a position as a junior developer to gain industry experience.",
+    "email": "kukim96@gmail.com",
+    "phone": "403-829-5849",
+    "address": {
+      "street": "405-30 Brentwood Common",
+      "city": "Calgary",
+      "state": "Alberta",
+      "zip": "T2L 2L8"
+    },
+    "website": "http://www.timbakerdev.com",
+    "resumedownload": "Kiup_Kim_Resume.pdf",
+    "social": [
+      {
+        "name": "linkedin",
+        "url": "https://www.linkedin.com/in/kiup-kim/",
+        "className": "fa fa-linkedin"
+      },
+      {
+        "name": "github",
+        "url": "https://github.com/kukim96",
+        "className": "fa fa-github"
+      }
+    ]
+  },
+  "resume": {
+    "skillmessage": "Here are some of my best skills!",
+    "education": [
+      {
+        "school": "Lighthouse Labs",
+        "degree": "Diploma of Web Development",
+        "graduated": "June 2021",
+        "description": "Full Stack Web Development Diploma with a focus on Javascript, React.js, HTML, and CSS on the Front End. Node.js, Express, Axios, and Ruby on Rails in the Back End. PostgreSQL for the database.",
+        "image": "lhl.png"
+      }
+    ],
+    "work": [
+      {
+        "company": "TD Canada Trust",
+        "title": "Personal Banking Associate",
+        "years": "March 2019 - March 2021",
+        "description": "Understand client needs and guide the client to the right contact person for appropriate solutions while exercising good judgment in confident matters. Build client confidence in emerging digital banking trends by educating them on mobile, ATM, and online banking. Actively look for areas of improvement in the workflow process and escalate to appropriate management.",
+        "image": "td.png"
+      },
+      {
+        "company": "TD Canada Trust",
+        "title": "Customer Experience Associate",
+        "years": "October 2017 - February 2019",
+        "description": "Process personal and small business financial transactions under due diligence. Built a personal connection with clients to give appropriate financial advice.",
+        "image": "td.png"
+      }
+    ],
+    "skills": [
+      {
+        "name": "Javascript",
+        "level": "85%"
+      },
+      {
+        "name": "ReactJs",
+        "level": "80%"
+      },
+      {
+        "name": "Ruby on Rails",
+        "level": "60%"
+      },
+      {
+        "name": "CSS",
+        "level": "70%"
+      },
+      {
+        "name": "HTML5",
+        "level": "70%"
+      }
+    ]
+  },
+  "portfolio": {
+    "projects": [
+      {
+        "title": "Personal Financial Planner",
+        "category": "Financial budgeting App built with React",
+        "image": "pfp.png",
+        "url": "https://github.com/kukim96/personal-financial-planner"
+      },
+      {
+        "title": "Jungle-Rails",
+        "category": "Mini E-Commerce App built with Ruby on Rails",
+        "image": "jungle_rails.png",
+        "url": "https://github.com/kukim96/jungle-rails"
+      },
+      {
+        "title": "Interview Scheduler",
+        "category": "Interview Scheduling App built with React",
+        "image": "interview_scheduler.png",
+        "url": "https://github.com/kukim96/scheduler"
+      },
+      {
+        "title": "Tweeter",
+        "category": "Single-page twitter clone App",
+        "image": "tweeter.png",
+        "url": "https://github.com/kukim96/tweeter"
+      }
+    ]
+  }
+}
