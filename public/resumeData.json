@@ -40,6 +40,12 @@
     ],
     "work": [
       {
+        "company": "Toku Systems Inc.",
+        "title": "Software Developer",
+        "years": "August 2021 - current",
+        "image": "toku.png"
+      },
+      {
         "company": "TD Canada Trust",
         "title": "Personal Banking Associate",
         "years": "March 2019 - March 2021",
