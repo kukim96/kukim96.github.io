@@ -13,7 +13,7 @@
       "state": "Alberta",
       "zip": "T2L 2L8"
     },
-    "resumedownload": "Kiup_Kim_Resume.pdf",
+    "resumedownload": "Resume.pdf",
     "social": [
       {
         "name": "linkedin",
@@ -43,6 +43,7 @@
         "company": "Toku Systems Inc.",
         "title": "Software Developer",
         "years": "August 2021 - current",
+        "description": "Develop a bluetooth integrated mobile-application to scan and connect a sensor device.Used React-Native and BLE PLX library to build and design the application. Developed End to End testing using Cypress to ensure quality and efficiency of the application",
         "image": "toku.png"
       },
       {
