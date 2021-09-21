@@ -64,11 +64,15 @@
     "skills": [
       {
         "name": "Javascript",
-        "level": "85%"
+        "level": "80%"
+      },
+      {
+        "name": "React-Native",
+        "level": "70%"
       },
       {
         "name": "ReactJs",
-        "level": "80%"
+        "level": "70%"
       },
       {
         "name": "Ruby on Rails",
