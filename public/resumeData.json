@@ -40,9 +40,16 @@
     ],
     "work": [
       {
+        "company": "Coconut Software",
+        "title": "Junior Developer",
+        "years": "February 2022 - current",
+        "description": "Executed front end  software development using JavaScript (React, Axios) and CSS/SASS. Executed server-side software development using PHP (Laravel). Wrote and implemented useable and tested code with REST and associated technologies with autonomy (JWT, JWE, JSON-API, etc). Researched and refined skillset with container technologies such as Docker. Strong understanding of software development workflows (writing, testing and deploying code).",
+        "image": "coconut.png"
+      },
+      {
         "company": "Toku Systems Inc.",
         "title": "Software Developer",
-        "years": "August 2021 - current",
+        "years": "August 2021 - January 2022",
         "description": "Develop a bluetooth integrated mobile-application to scan and connect a sensor device.Used React-Native and BLE PLX library to build and design the application. Developed End to End testing using Cypress to ensure quality and efficiency of the application",
         "image": "toku.png"
       },
