@@ -59,19 +59,12 @@
         "years": "March 2019 - March 2021",
         "description": "Understand client needs and guide the client to the right contact person for appropriate solutions while exercising good judgment in confident matters. Build client confidence in emerging digital banking trends by educating them on mobile, ATM, and online banking. Actively look for areas of improvement in the workflow process and escalate to appropriate management.",
         "image": "td.png"
-      },
-      {
-        "company": "TD Canada Trust",
-        "title": "Customer Experience Associate",
-        "years": "October 2017 - February 2019",
-        "description": "Process personal and small business financial transactions under due diligence. Built a personal connection with clients to give appropriate financial advice.",
-        "image": "td.png"
       }
     ],
     "skills": [
       {
         "name": "Javascript",
-        "level": "80%"
+        "level": "90%"
       },
       {
         "name": "React-Native",
@@ -79,11 +72,11 @@
       },
       {
         "name": "ReactJs",
-        "level": "70%"
+        "level": "90%"
       },
       {
-        "name": "Ruby on Rails",
-        "level": "60%"
+        "name": "PHP",
+        "level": "80%"
       },
       {
         "name": "CSS",
