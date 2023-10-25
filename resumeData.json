@@ -1,0 +1,119 @@
+{
+  "main": {
+    "name": "Kiup Kim",
+    "occupation": "Full Stack Web Developer",
+    "description": "I'm a recent graduate of Lighthouse Labs, where I dove into the fields of Computer Science, Web Development, and Programming.",
+    "image": "profilepic.jpg",
+    "bio": "I am coming from 3.5 years of experience in retail banking focused on customer service. I have always been interested in technology and wanted to explore what I can do with technology. I decided to leave my position at the bank and pursue full-time studies to learn software development and would love to start a position as a junior developer to gain industry experience.",
+    "email": "kukim96@gmail.com",
+    "phone": "403-829-5849",
+    "address": {
+      "street": "105 Royal Crest Terrace",
+      "city": "Calgary",
+      "state": "Alberta",
+      "zip": "T3G 4M2"
+    },
+    "resumedownload": "Kiup_Kim_Resume.pdf",
+    "social": [
+      {
+        "name": "linkedin",
+        "url": "https://www.linkedin.com/in/kiup-kim/",
+        "className": "fa fa-linkedin"
+      },
+      {
+        "name": "github",
+        "url": "https://github.com/kukim96",
+        "className": "fa fa-github"
+      }
+    ]
+  },
+  "resume": {
+    "skillmessage": "Here are some of my best skills!",
+    "education": [
+      {
+        "school": "Lighthouse Labs",
+        "degree": "Diploma of Web Development",
+        "graduated": "June 2021",
+        "description": "Full Stack Web Development Diploma with a focus on Javascript, React.js, HTML, and CSS on the Front End. Node.js, Express, Axios, and Ruby on Rails in the Back End. PostgreSQL for the database.",
+        "image": "lhl.png"
+      }
+    ],
+    "work": [
+      {
+        "company": "Coconut Software",
+        "title": "Junior Developer",
+        "years": "February 2022 - current",
+        "description": "Executed front end  software development using JavaScript (React, Axios) and CSS/SASS. Executed server-side software development using PHP (Laravel). Wrote and implemented useable and tested code with REST and associated technologies with autonomy (JWT, JWE, JSON-API, etc). Researched and refined skillset with container technologies such as Docker. Strong understanding of software development workflows (writing, testing and deploying code).",
+        "image": "coconut.png"
+      },
+      {
+        "company": "Toku Systems Inc.",
+        "title": "Software Developer",
+        "years": "August 2021 - January 2022",
+        "description": "Develop a bluetooth integrated mobile-application to scan and connect a sensor device.Used React-Native and BLE PLX library to build and design the application. Developed End to End testing using Cypress to ensure quality and efficiency of the application",
+        "image": "toku.png"
+      },
+      {
+        "company": "TD Canada Trust",
+        "title": "Personal Banking Associate",
+        "years": "March 2019 - March 2021",
+        "description": "Understand client needs and guide the client to the right contact person for appropriate solutions while exercising good judgment in confident matters. Build client confidence in emerging digital banking trends by educating them on mobile, ATM, and online banking. Actively look for areas of improvement in the workflow process and escalate to appropriate management.",
+        "image": "td.png"
+      }
+    ],
+    "skills": [
+      {
+        "name": "Javascript",
+        "level": "90%"
+      },
+      {
+        "name": "React-Native",
+        "level": "70%"
+      },
+      {
+        "name": "ReactJs",
+        "level": "90%"
+      },
+      {
+        "name": "PHP",
+        "level": "80%"
+      },
+      {
+        "name": "CSS",
+        "level": "70%"
+      },
+      {
+        "name": "HTML5",
+        "level": "70%"
+      }
+    ]
+  },
+  "portfolio": {
+    "projects": [
+      {
+        "title": "Personal Financial Planner",
+        "category": "Financial budgeting App built with React",
+        "image": "pfp.png",
+        "url": "https://github.com/kukim96/personal-financial-planner"
+      },
+      {
+        "title": "Jungle-Rails",
+        "category": "Mini E-Commerce App built with Ruby on Rails",
+        "image": "jungle_rails.png",
+        "url": "https://github.com/kukim96/jungle-rails"
+      },
+      {
+        "title": "Interview Scheduler",
+        "category": "Interview Scheduling App built with React",
+        "image": "interview_scheduler.png",
+        "url": "https://github.com/kukim96/scheduler"
+      },
+      {
+        "title": "Tweeter",
+        "category": "Single-page twitter clone App",
+        "image": "tweeter.png",
+        "url": "https://github.com/kukim96/tweeter"
+      }
+    ]
+  }
+}
