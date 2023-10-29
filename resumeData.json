@@ -41,23 +41,23 @@
     "work": [
       {
         "company": "Coconut Software",
-        "title": "Junior Developer",
+        "title": "Software Developer",
         "years": "February 2022 - October 2023",
-        "description": "Executed front end  software development using JavaScript (React, Axios) and CSS/SASS. Executed server-side software development using PHP (Laravel). Wrote and implemented useable and tested code with REST and associated technologies with autonomy (JWT, JWE, JSON-API, etc). Researched and refined skillset with container technologies such as Docker. Strong understanding of software development workflows (writing, testing and deploying code).",
+        "description": "Schedule and integration software for financial institution to provide seamless connection with customers",
         "image": "coconut.png"
       },
       {
         "company": "Toku Systems Inc.",
         "title": "Software Developer",
         "years": "August 2021 - January 2022",
-        "description": "Develop a bluetooth integrated mobile-application to scan and connect a sensor device.Used React-Native and BLE PLX library to build and design the application. Developed End to End testing using Cypress to ensure quality and efficiency of the application",
+        "description": "IoT monitoring system for oil and gas industry",
         "image": "toku.png"
       },
       {
         "company": "TD Canada Trust",
         "title": "Personal Banking Associate",
         "years": "March 2019 - March 2021",
-        "description": "Understand client needs and guide the client to the right contact person for appropriate solutions while exercising good judgment in confident matters. Build client confidence in emerging digital banking trends by educating them on mobile, ATM, and online banking. Actively look for areas of improvement in the workflow process and escalate to appropriate management.",
+        "description": "Providing personal financial advice",
         "image": "td.png"
       }
     ],
