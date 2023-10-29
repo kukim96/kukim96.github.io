@@ -2,7 +2,7 @@
   "main": {
     "name": "Kiup Kim",
     "occupation": "Full Stack Web Developer",
-    "description": "I'm a recent graduate of Lighthouse Labs, where I dove into the fields of Computer Science, Web Development, and Programming.",
+    "description": "",
     "image": "profilepic.jpg",
     "bio": "I am coming from 3.5 years of experience in retail banking focused on customer service. I have always been interested in technology and wanted to explore what I can do with technology. I decided to leave my position at the bank and pursue full-time studies to learn software development and would love to start a position as a junior developer to gain industry experience.",
     "email": "kukim96@gmail.com",
@@ -13,7 +13,7 @@
       "state": "Alberta",
       "zip": "T3G 4M2"
     },
-    "resumedownload": "Kiup_Kim_Resume.pdf",
+    "resumedownload": "Kiup_Kim_resume.pdf",
     "social": [
       {
         "name": "linkedin",
