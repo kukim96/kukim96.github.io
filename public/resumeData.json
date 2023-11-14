@@ -13,7 +13,7 @@
       "state": "Alberta",
       "zip": "T3G 4M2"
     },
-    "resumedownload": "Kiup_Kim_resume.pdf",
+    "resumedownload": "Kiup_Kim_resume_updated.pdf",
     "social": [
       {
         "name": "linkedin",
@@ -67,16 +67,16 @@
         "level": "90%"
       },
       {
-        "name": "React-Native",
-        "level": "70%"
-      },
-      {
-        "name": "ReactJs",
+        "name": "React",
         "level": "90%"
       },
       {
         "name": "PHP",
         "level": "80%"
+      },
+      {
+        "name": "React-Native",
+        "level": "70%"
       },
       {
         "name": "CSS",
